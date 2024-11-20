@@ -1,2 +1,3 @@
 # app-dev
 My first repository
+*The movie *The Wild Robot* (hypothetical or inspired by Peter Brown's book) follows the journey of Roz, a robot who becomes stranded on a remote island after a shipwreck. Initially seen as an outsider, Roz learns to adapt to her wild surroundings by observing the animals and mimicking their behaviors. Over time, she forms deep bonds with the island’s creatures, especially after adopting an orphaned gosling named Brightbill, and becomes a part of their community. As Roz grows emotionally, her existence on the island is threatened when her creators send machines to retrieve her. The story is a touching exploration of survival, friendship, and what it means to truly belong.*
